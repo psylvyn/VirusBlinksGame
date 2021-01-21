@@ -14,7 +14,7 @@ When you click a play piece that is connected to others of the same color, they 
 - 3-5 blinks = 1 damage
 - 6+ blinks = 2 damage
 
-The virus will continue to strengthen and if it reaches 18 health it is game over.  The virus starts at 13 health.  If the virus loses all health, the player wins.
+The virus will continue to strengthen 1 each 15 seconds and if it reaches 18 health it is game over.  The virus starts at 13 health.  If the virus loses all health, the player wins.
 
 Win screen = pulsing white blinks
 Lose screen = pulsing red blinks
