@@ -57,6 +57,7 @@ void resetToDefaults(){
 }
 
 void setup() {
+  randomize();
   initializeTile(true);
 }
 
